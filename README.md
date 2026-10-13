@@ -77,5 +77,5 @@ License
 This project is licensed under the MIT License. See `LICENSE` for details.
 Contact
 For questions regarding the framework, dataset access, or replication:
-Sumukhi Nandam — snandam9717@sdsu.edu
+Sumukhi Nandam — sumukhi04.nandam@gmail.com
 Carlos D. Paternina-Arboleda — cpaternina@sdsu.edu
