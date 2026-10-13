@@ -1,10 +1,9 @@
 # Light-weight-RPA-for-SMEs
-This repository contains supplementary materials for the:
+This repository contains supplementary materials for the article:
 "A Lightweight Robotic Process Automation Framework for Financial Analytics in Spreadsheet-Centric SMEs"
 Authors: Sumukhi Nandam and Carlos D. Paternina-Arboleda
 Affiliation: San Diego State University
 ---
-About
 This project presents a modular RPA framework built in UiPath Studio that automates profit and loss computation for small and medium-sized enterprises relying on spreadsheet-based financial records. The pipeline handles structured data ingestion, validation and standardization of transaction attributes, and financial metric aggregation — all operating directly on Excel workbooks without requiring enterprise system integration or cloud infrastructure.
 The framework was benchmarked against manual Excel processing across five performance dimensions (execution time, error rate, labor cost, scalability, and reporting latency). 
 Repository Contents
